@@ -1,0 +1,56 @@
+
+
+body{background-color: black;
+     }
+     h1 {color: hotpink;
+         }
+     .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fe68b4;
+    background-color: #cdbacc;}
+
+    .nav-link {color: hotpink;}
+
+    h1{font-family: 'Lobster Two', cursive;
+        margin-top:50px;}
+        li{ margin-top:10px; }
+
+    h2{color: gray;
+    font-size: small;
+        font-style: italic;}
+
+        h3{margin-top:60px;
+             font-family: 'Roboto Slab', serif;}
+
+    .nav-link:hover {
+    color: #f8f9fa;}
+
+    nav-pills .nav-link.active, .nav-pills .show>.nav-link {background-color: #b29bb3;}
+    nav {font-family: 'Roboto Slab', serif;}
+   
+    h3 {color: hotpink; 
+        font-style: italic;
+        }
+        li{color: hotpink;}
+
+            h4{color:gray;
+                font-size: medium;
+                margin-top: 50px;
+            font-family: 'Roboto Slab', serif;} 
+
+                h5{color:gray;
+                font-size: medium;
+                margin-top: 100px;
+            font-family: 'Roboto Slab', serif;} 
+           
+            h3{margin-top:60px;}
+
+            .navbar{background-color: white;
+                   }
+                   p{border-style }
+
+                   label{color:gray;}
+                   label,input {margin-top:20px}
+
+          
+      
+      
